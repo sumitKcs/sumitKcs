@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <h3>Hey 👋...This is Sumit</h3>
   <h3>Glad to see you here 😀</h3>
-   <h3>I am a MERN Full Stack Developer and Ethereum Blockchain Developer</h3>
+   <h3>I am a MERN Full Stack Developer, Ethereum Blockchain Developer and Blogger on Hashnode</h3>
       <h3>Connect with me 👇</h3>
   </div>
   <div id="badges" align="center" >
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 
 ![sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumitKcs)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitKcs)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PrajwalDhungana)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitKcs)](https://github.com/anuraghazra/github-readme-stats)
 <div id="header"> 
