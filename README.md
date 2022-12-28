@@ -69,5 +69,11 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sumitKcs)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitKcs)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header"> 
+ 
+  <h1>  <img style="height:2rem" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="stats"></img>Github Trophies </h1>
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
