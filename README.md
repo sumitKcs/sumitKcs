@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <h3>Hey 👋...This is Sumit</h3>
   <h3>Glad to see you here 😀</h3>
-   <h3>I am a MERN Full Stack Developer, Ethereum Blockchain Developer and Blogger on Hashnode</h3>
+   <h3>I am a Frontend Developer and Blogger on Hashnode</h3>
       <h3>Connect with me 👇</h3>
   </div>
   <div id="badges" align="center" >
