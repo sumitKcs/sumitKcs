@@ -1,4 +1,4 @@
-<h2 align="left">Hello Sumit! 👋 As the Co-founder and CTO at Comebyte Infotech, I specialize in frontend development, crafting intuitive user interfaces. My knowledge extends to backend technologies, allowing me to architect robust web applications. Let's tackle intricate challenges together! 🚀</h2>
+<h2 align="left">Hello I am Sumit! 👋 As the Co-founder and CTO at Comebyte Infotech, I specialize in frontend development, crafting intuitive user interfaces. My knowledge extends to backend technologies, allowing me to architect robust web applications. Let's tackle intricate challenges together! 🚀</h2>
 
 ###
 
